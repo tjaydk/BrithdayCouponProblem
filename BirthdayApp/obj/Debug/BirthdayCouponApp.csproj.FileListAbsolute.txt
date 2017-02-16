@@ -1,0 +1,6 @@
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\BirthdayApp\BirthdayApp\obj\Debug\BirthdayCouponApp.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\BirthdayApp\BirthdayApp\obj\Debug\BirthdayApp.exe
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\BirthdayApp\BirthdayApp\obj\Debug\BirthdayApp.pdb
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\BirthdayApp\BirthdayApp\bin\Debug\BirthdayApp.exe.config
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\BirthdayApp\BirthdayApp\bin\Debug\BirthdayApp.exe
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\BirthdayApp\BirthdayApp\bin\Debug\BirthdayApp.pdb
